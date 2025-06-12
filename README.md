@@ -23,6 +23,7 @@ A simple and stylish digital clock web app. Displays the current time with a cle
 ## Credits
 
 - Inspired by [BroCode](https://www.youtube.com/@BroCodez) on YouTube
+- Images sourced from [Pixabay](https://pixabay.com/)
 
 ## License
 
